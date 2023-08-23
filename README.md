@@ -20,14 +20,6 @@ The United States Geological Survey (USGS) collects extensive data on earthquake
 5. Include a legend for context.
 6. Produce an interactive visualization resembling a map.
 
-### Part 2: Gather and Plot More Data (Optional)
-
-**Tasks:**
-1. Plot tectonic plates data alongside earthquake data on the map.
-2. Add various base maps for user selection.
-3. Organize data into separate overlays with independent visibility controls.
-4. Implement layer controls to switch between datasets.
-
 ## Usage
 
 - To explore the earthquake visualization, open the HTML file containing the Leaflet map.
@@ -37,7 +29,6 @@ The United States Geological Survey (USGS) collects extensive data on earthquake
 ## Credits
 
 - Earthquake data provided by the United States Geological Survey (USGS).
-- Tectonic plates data sourced from the [fraxen/tectonicplates repository](https://github.com/fraxen/tectonicplates).
 
 ## Note
 
