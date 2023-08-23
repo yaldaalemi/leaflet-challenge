@@ -4,6 +4,8 @@
 
 The United States Geological Survey (USGS) collects extensive data on earthquakes worldwide, and there's a need to develop visualization tools to effectively communicate this data. This project aims to create interactive earthquake visualizations using Leaflet, allowing the USGS to better educate the public and government organizations about seismic activity and its impact on our planet.
 
+You can find the interactive earthquake visualization map with earthquake data here: https://yaldaalemi.github.io/leaflet-challenge/
+
 ## Project Overview
 
 ### Part 1: Create the Earthquake Visualization
